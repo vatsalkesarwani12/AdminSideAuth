@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020110190678",
+    "firebase_url": "https://adminsideauth.firebaseio.com",
+    "project_id": "adminsideauth",
+    "storage_bucket": "adminsideauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020110190678:android:b81317f05c0570ca8b63f7",
+        "android_client_info": {
+          "package_name": "com.vatsal.kesarwani.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020110190678-ebt5joh01mbv5e30pggp7dh8l8sp55ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrVqJYE3n6jpWiE0nUd3j-nbVoAXLtqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020110190678-ebt5joh01mbv5e30pggp7dh8l8sp55ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
