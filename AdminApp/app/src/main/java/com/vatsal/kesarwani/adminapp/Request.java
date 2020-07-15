@@ -37,6 +37,9 @@ public class Request extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
+        recyclerView.setVisibility(View.VISIBLE);
+        findViewById(R.id.empty).setVisibility(View.GONE);
+
         FirebaseDatabase.getInstance().getReference("NewUser")
                 .orderByChild("Status")
                 .equalTo(2)
